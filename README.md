@@ -8,7 +8,7 @@
 
 4. Execute npm install para instalar as dependências do app
 
-5. Altere o aquivo .env e coloque abaixo: WORKSPACE_ID, ASSISTANT_USERNAME e ASSISTANT_PASSWORD
+5. Altere o aquivo .env e coloque as credenciais: WORKSPACE_ID, ASSISTANT_USERNAME e ASSISTANT_PASSWORD
 
 6. Execute npm start para iniciar o app
 
